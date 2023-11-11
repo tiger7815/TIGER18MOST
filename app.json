@@ -1,10 +1,10 @@
 {
   "name": "pyro",
   "description": "Download videos from various websites using this telegram bot",
-  "repository": "https://github.com/nkhash/textuploader",
+  "repository": "https://github.com/tiger7815/tiger18most",
   "buildpacks": [
     {
-      "url": "https://github.com/heroku/heroku-buildpack-python.git"
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
     },
     {
       "url": "https://github.com/amivin/aria2-heroku.git"
